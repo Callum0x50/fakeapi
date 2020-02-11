@@ -1,6 +1,6 @@
 
 {
-  events: {
+  "events": [
     "id": 123,
     "eventType": "record",
     "subject": "test",
@@ -10,5 +10,5 @@
       "model": "Monster"
     },
     "dataVersion": "1.0"
-  }
+  ]
 }
