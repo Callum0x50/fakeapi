@@ -1,14 +1,15 @@
 
 {
   "events": [
-    "id": 123,
-    "eventType": "record",
-    "subject": "test",
-    "eventTime": "2020-08-10T21:03:07+00:00",
-    "data":{
-      "make": "Ducati",
-      "model": "Monster"
-    },
-    "dataVersion": "1.0"
-  ]
+    {
+      "id": 123,
+      "eventType": "record",
+      "subject": "test",
+      "eventTime": "2020-08-10T21:03:07+00:00",
+      "data":{
+        "make": "Ducati",
+        "model": "Monster"
+      },
+      "dataVersion": "1.0"
+    }]
 }
